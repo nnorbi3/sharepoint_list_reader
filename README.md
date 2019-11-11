@@ -3,7 +3,7 @@
 ## Description
 
 I made this program during my first year of uni. Also it is my first ever "bigger" project.
-I got an opportunity from a state-owned company to make this project on my own. The goal was to make work faster.
+I got an opportunity from a state-owned company to make this project on my own. The goal was to make work faster, because they found the online editor a bit too slow.
 Unfortunately the company decided to replace Sharepoint with some other technology, so my program became useless for them.
 This is the last version I've touched and it hasn't been modified since then.
 Maybe I'll finish it one day...
