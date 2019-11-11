@@ -1,0 +1,410 @@
+C:\Users\Norbi\Desktop\prog\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\Norbi\Desktop\prog\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\prog\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\prog\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Norbi\Desktop\prog\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Norbi\Desktop\prog\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\Norbi\Desktop\prog\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\Norbi\Desktop\prog\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\Norbi\Desktop\prog\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\Norbi\Desktop\prog\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\Norbi\Desktop\prog\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\prog\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\prog\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\Norbi\Desktop\prog\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.NewListItemForm.resources
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.NewListItemForm.resources
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\Norbi\Desktop\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\sharepoint_access_client\sp_client\sp_client\obj\Debug\sp_client.NewListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\obj\Debug\sp_client.NewListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\obj\Debug\sp_client.NewListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.1\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\obj\Debug\sp_client.NewListItemForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.2\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.NewListItemForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.NewListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.NewListItemForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.3\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.NewListItemForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.NewListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.4\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.NewListItemForm.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\nnorb\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.NewListItemForm.resources
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\Norbi\OneDrive\Programming\C#\Sharepoint project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.NewListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.5\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.AddListItemForm.resources
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\Norbi\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.AddListItemForm.resources
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.AddListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.6\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\obj\Debug\sp_client.AddListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.7\sp_client\sp_client\obj\Debug\sp_client.InputForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.InputForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.AddListItemForm.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.csproj.CoreCompileInputs.cache
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\Norbi\Desktop\Sharepoint Project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\bin\Debug\sp_client.exe.config
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\bin\Debug\sp_client.exe
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\bin\Debug\sp_client.pdb
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.csprojAssemblyReference.cache
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.EditListItemForm.resources
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.FilteredListForm.resources
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.InputForm.resources
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.ListSearchForm.resources
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.MainForm.resources
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.LoginForm.resources
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.AddListItemForm.resources
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.Properties.Resources.resources
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.csproj.GenerateResource.cache
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.csproj.CopyComplete
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.exe
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\obj\Debug\sp_client.pdb
+C:\Users\nnorb\OneDrive\Work\Sharepoint project\sharepoint_access_client_NEW_v0.8\sp_client\sp_client\bin\Debug\Microsoft.IdentityModel.Extensions.dll
