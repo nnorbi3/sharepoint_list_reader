@@ -1,4 +1,5 @@
-﻿using Microsoft.SharePoint.Client;
+﻿using Exceptions;
+using Microsoft.SharePoint.Client;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,15 +10,12 @@ using System.Threading.Tasks;
 
 namespace Data
 {
-    public class Connecter
+    public class Connecter : IConnecter
     {
-        public string URL { get; }
-
-        public string Username { get; }
-
-        public SecureString Password { get; }
-
-        public ClientContext client;
+        private string URL { get; }
+        private string Username { get; }
+        private SecureString Password { get; }
+        public ClientContext Client { get; set; }
 
         public Connecter(string url, string username, string password)
         {
@@ -31,56 +29,62 @@ namespace Data
         }
 
         /// <summary>
-        /// Returns an error in case of failure.
+        /// Connects the client to the given URL.
+        /// Throws an error in case of failure.
         /// </summary>
-        /// <returns>Error.</returns>
-        public Error ConnectAndAuthenticate()
+        public void ConnectAndAuthenticate()
         {
             try
             {
-                client = new ClientContext(URL);
+                Client = new ClientContext(URL);
 
                 try
                 {
                     try
                     {
-                        client.Credentials =
+                        Client.Credentials =
                             new SharePointOnlineCredentials(Username, Password); // Online login
-                        client.ExecuteQuery();
+                        Client.ExecuteQuery();
                     }
                     catch (NotSupportedException)
                     {
-                        client.Credentials =
+                        Client.Credentials =
                             new NetworkCredential(Username, Password); // On-premise(local) login
-                        client.ExecuteQuery();
+                        Client.ExecuteQuery();
                     }
 
                 }
                 catch (ClientRequestException)
                 {
-                    return new Error { Type = ErrorType.AuthenticationError, Message = "Something went wrong. Check your credentials" };
+                    throw new Error(ErrorType.AuthenticationError, "Something went wrong. Check your credentials!");
                 }
                 catch (IdcrlException)
                 {
-                    return new Error { Type = ErrorType.AuthenticationError, Message = "Incorrect username or password" };
+                    throw new Error(ErrorType.AuthenticationError, "Incorrect username or password.");
                 }
                 catch (ArgumentException)
                 {
-                    return new Error { Type = ErrorType.AuthenticationError, Message = "Incorrect username. Username must be an e-mail address" };
+                    throw new Error(ErrorType.AuthenticationError, "Incorrect username. Username must be an e-mail address!");
                 }
                 catch (WebException)
                 {
-                    return new Error { Type = ErrorType.AuthenticationError, Message = "Something went wrong. Check your credentials" };
+                    throw new Error(ErrorType.AuthenticationError, "Something went wrong. Check your credentials.");
                 }
             }
             catch (ArgumentException)
             {
-                return new Error { Type = ErrorType.AuthenticationError, Message = "Requested site not found." };
+                throw new Error(ErrorType.AuthenticationError, "Requested site not found.");
             }
+        }
 
+        public string GetURL()
+        {
+            return this.URL;
+        }
 
-
-            return new Error { Type = ErrorType.OK };
+        public string GetUsername()
+        {
+            return this.Username;
         }
     }
 }

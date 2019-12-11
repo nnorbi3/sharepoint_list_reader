@@ -1,0 +1,5 @@
+D:\Local Projects\sharepoint_remote_client\sp_client\Exceptions\bin\Debug\Exceptions.dll
+D:\Local Projects\sharepoint_remote_client\sp_client\Exceptions\bin\Debug\Exceptions.pdb
+D:\Local Projects\sharepoint_remote_client\sp_client\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+D:\Local Projects\sharepoint_remote_client\sp_client\Exceptions\obj\Debug\Exceptions.dll
+D:\Local Projects\sharepoint_remote_client\sp_client\Exceptions\obj\Debug\Exceptions.pdb
