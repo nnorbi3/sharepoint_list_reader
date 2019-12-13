@@ -49,18 +49,8 @@ namespace sp_client
             {
                 laLoading.Visible = true;
                 Main.ConnectToSite(tbUrl.Text, tbUsername.Text, tbPassword.Text);
-                FormClosed += LoginForm_FormClosed;
+                this.Close();
             }
-        }
-
-        private void LoginForm_FormClosed(object sender, FormClosedEventArgs e)
-        {
-            laLoading.Visible = false;
-        }
-
-        public void LoadingVisibleFalse()
-        {
-            laLoading.Visible = false;
         }
 
         private void InitUserData()
@@ -82,7 +72,7 @@ namespace sp_client
         {
             if (tbPassword.Text == "" || tbUrl.Text == "")
             {
-                Alert();
+                Main.DisplayErrorMessage(new Exceptions.Error(Exceptions.ErrorType.Alert, "All fields must be filled!"));
                 return false;
             }
 
@@ -105,14 +95,9 @@ namespace sp_client
             return true;
         }
 
-        private void Alert()
-        {
-            MessageBox.Show("All fields must be filled!", "Alert", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-        }
-
         private void btCancel_Click(object sender, EventArgs e)
         {
-            Main.CancelConnection();
+            this.Close();
         }
     }
 }

@@ -85,7 +85,7 @@
             this.menuStrip.Location = new System.Drawing.Point(0, 0);
             this.menuStrip.Name = "menuStrip";
             this.menuStrip.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional;
-            this.menuStrip.Size = new System.Drawing.Size(1558, 25);
+            this.menuStrip.Size = new System.Drawing.Size(1924, 31);
             this.menuStrip.TabIndex = 0;
             // 
             // toolsToolStripMenuItem
@@ -95,14 +95,14 @@
             this.connectToolStripMenuItem,
             this.disconnectToolStripMenuItem});
             this.toolsToolStripMenuItem.Name = "toolsToolStripMenuItem";
-            this.toolsToolStripMenuItem.Size = new System.Drawing.Size(51, 21);
+            this.toolsToolStripMenuItem.Size = new System.Drawing.Size(62, 27);
             this.toolsToolStripMenuItem.Text = "Tools";
             // 
             // connectToolStripMenuItem
             // 
             this.connectToolStripMenuItem.Image = global::sp_client.Properties.Resources.connect_to_site_icon;
             this.connectToolStripMenuItem.Name = "connectToolStripMenuItem";
-            this.connectToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
+            this.connectToolStripMenuItem.Size = new System.Drawing.Size(210, 28);
             this.connectToolStripMenuItem.Text = "Connect to site";
             this.connectToolStripMenuItem.Click += new System.EventHandler(this.connectToolStripMenuItem_Click);
             // 
@@ -111,7 +111,7 @@
             this.disconnectToolStripMenuItem.Enabled = false;
             this.disconnectToolStripMenuItem.Image = global::sp_client.Properties.Resources.disconnect_icon;
             this.disconnectToolStripMenuItem.Name = "disconnectToolStripMenuItem";
-            this.disconnectToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
+            this.disconnectToolStripMenuItem.Size = new System.Drawing.Size(210, 28);
             this.disconnectToolStripMenuItem.Text = "Disconnect";
             this.disconnectToolStripMenuItem.Click += new System.EventHandler(this.disconnectToolStripMenuItem_Click);
             // 
@@ -121,7 +121,7 @@
             this.listRefreshRateToolStripMenuItem});
             this.settingsToolStripMenuItem.Enabled = false;
             this.settingsToolStripMenuItem.Name = "settingsToolStripMenuItem";
-            this.settingsToolStripMenuItem.Size = new System.Drawing.Size(66, 21);
+            this.settingsToolStripMenuItem.Size = new System.Drawing.Size(85, 27);
             this.settingsToolStripMenuItem.Text = "Settings";
             // 
             // listRefreshRateToolStripMenuItem
@@ -134,7 +134,7 @@
             this.timer2Minutes});
             this.listRefreshRateToolStripMenuItem.Image = global::sp_client.Properties.Resources.refresh_rate_icon;
             this.listRefreshRateToolStripMenuItem.Name = "listRefreshRateToolStripMenuItem";
-            this.listRefreshRateToolStripMenuItem.Size = new System.Drawing.Size(171, 26);
+            this.listRefreshRateToolStripMenuItem.Size = new System.Drawing.Size(211, 28);
             this.listRefreshRateToolStripMenuItem.Text = "List refresh rate";
             // 
             // timerOff
@@ -142,35 +142,35 @@
             this.timerOff.Checked = true;
             this.timerOff.CheckState = System.Windows.Forms.CheckState.Checked;
             this.timerOff.Name = "timerOff";
-            this.timerOff.Size = new System.Drawing.Size(142, 22);
+            this.timerOff.Size = new System.Drawing.Size(178, 28);
             this.timerOff.Text = "Off";
             this.timerOff.Click += new System.EventHandler(this.offToolStripMenuItem_Click);
             // 
             // timer10Seconds
             // 
             this.timer10Seconds.Name = "timer10Seconds";
-            this.timer10Seconds.Size = new System.Drawing.Size(142, 22);
+            this.timer10Seconds.Size = new System.Drawing.Size(178, 28);
             this.timer10Seconds.Text = "10 seconds";
             this.timer10Seconds.Click += new System.EventHandler(this.tenSecondsToolStripMenuItem_Click);
             // 
             // timer30Seconds
             // 
             this.timer30Seconds.Name = "timer30Seconds";
-            this.timer30Seconds.Size = new System.Drawing.Size(142, 22);
+            this.timer30Seconds.Size = new System.Drawing.Size(178, 28);
             this.timer30Seconds.Text = "30 seconds";
             this.timer30Seconds.Click += new System.EventHandler(this.thirtySecondsToolStripMenuItem_Click);
             // 
             // timer60Seconds
             // 
             this.timer60Seconds.Name = "timer60Seconds";
-            this.timer60Seconds.Size = new System.Drawing.Size(142, 22);
+            this.timer60Seconds.Size = new System.Drawing.Size(178, 28);
             this.timer60Seconds.Text = "60 seconds";
             this.timer60Seconds.Click += new System.EventHandler(this.sixtySecondsToolStripMenuItem_Click);
             // 
             // timer2Minutes
             // 
             this.timer2Minutes.Name = "timer2Minutes";
-            this.timer2Minutes.Size = new System.Drawing.Size(142, 22);
+            this.timer2Minutes.Size = new System.Drawing.Size(178, 28);
             this.timer2Minutes.Text = "2 minutes";
             this.timer2Minutes.Click += new System.EventHandler(this.twoMinutesToolStripMenuItem_Click);
             // 
@@ -180,13 +180,13 @@
             this.aboutToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.versionToolStripMenuItem});
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(55, 21);
+            this.aboutToolStripMenuItem.Size = new System.Drawing.Size(71, 27);
             this.aboutToolStripMenuItem.Text = "About";
             // 
             // versionToolStripMenuItem
             // 
             this.versionToolStripMenuItem.Name = "versionToolStripMenuItem";
-            this.versionToolStripMenuItem.Size = new System.Drawing.Size(119, 22);
+            this.versionToolStripMenuItem.Size = new System.Drawing.Size(150, 28);
             this.versionToolStripMenuItem.Text = "Version";
             this.versionToolStripMenuItem.Click += new System.EventHandler(this.versionToolStripMenuItem_Click);
             // 
@@ -195,14 +195,14 @@
             this.userToolStripMenuItem.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
             this.userToolStripMenuItem.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
             this.userToolStripMenuItem.Name = "userToolStripMenuItem";
-            this.userToolStripMenuItem.Size = new System.Drawing.Size(12, 21);
+            this.userToolStripMenuItem.Size = new System.Drawing.Size(14, 27);
             // 
             // siteToolStripMenuItem
             // 
             this.siteToolStripMenuItem.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
             this.siteToolStripMenuItem.ForeColor = System.Drawing.SystemColors.GrayText;
             this.siteToolStripMenuItem.Name = "siteToolStripMenuItem";
-            this.siteToolStripMenuItem.Size = new System.Drawing.Size(12, 21);
+            this.siteToolStripMenuItem.Size = new System.Drawing.Size(14, 27);
             this.siteToolStripMenuItem.Click += new System.EventHandler(this.siteToolStripMenuItem_Click);
             // 
             // bgTemplate
@@ -210,17 +210,18 @@
             this.bgTemplate.BackColor = System.Drawing.Color.White;
             this.bgTemplate.ColumnCount = 2;
             this.bgTemplate.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
-            this.bgTemplate.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 1342F));
+            this.bgTemplate.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 1789F));
             this.bgTemplate.Controls.Add(this.panelFunctions, 0, 0);
             this.bgTemplate.Controls.Add(this.panelView, 1, 0);
             this.bgTemplate.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.bgTemplate.Location = new System.Drawing.Point(0, 25);
+            this.bgTemplate.Location = new System.Drawing.Point(0, 31);
+            this.bgTemplate.Margin = new System.Windows.Forms.Padding(4);
             this.bgTemplate.Name = "bgTemplate";
-            this.bgTemplate.Padding = new System.Windows.Forms.Padding(2);
+            this.bgTemplate.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.bgTemplate.RowCount = 1;
-            this.bgTemplate.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 664F));
-            this.bgTemplate.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 664F));
-            this.bgTemplate.Size = new System.Drawing.Size(1558, 667);
+            this.bgTemplate.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 817F));
+            this.bgTemplate.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 817F));
+            this.bgTemplate.Size = new System.Drawing.Size(1924, 821);
             this.bgTemplate.TabIndex = 3;
             this.bgTemplate.Visible = false;
             // 
@@ -237,45 +238,46 @@
             this.panelFunctions.Controls.Add(this.btRemoveItemFromList);
             this.panelFunctions.Controls.Add(this.btAddItemToList);
             this.panelFunctions.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelFunctions.Location = new System.Drawing.Point(5, 5);
+            this.panelFunctions.Location = new System.Drawing.Point(7, 6);
+            this.panelFunctions.Margin = new System.Windows.Forms.Padding(4);
             this.panelFunctions.Name = "panelFunctions";
-            this.panelFunctions.Size = new System.Drawing.Size(206, 658);
+            this.panelFunctions.Size = new System.Drawing.Size(275, 809);
             this.panelFunctions.TabIndex = 6;
             // 
             // laDivider4
             // 
             this.laDivider4.BackColor = System.Drawing.SystemColors.HotTrack;
-            this.laDivider4.Location = new System.Drawing.Point(-1, 528);
-            this.laDivider4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.laDivider4.Location = new System.Drawing.Point(-1, 650);
+            this.laDivider4.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.laDivider4.Name = "laDivider4";
-            this.laDivider4.Size = new System.Drawing.Size(209, 2);
+            this.laDivider4.Size = new System.Drawing.Size(279, 2);
             this.laDivider4.TabIndex = 34;
             // 
             // laDivider3
             // 
             this.laDivider3.BackColor = System.Drawing.SystemColors.HotTrack;
-            this.laDivider3.Location = new System.Drawing.Point(-1, 396);
-            this.laDivider3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.laDivider3.Location = new System.Drawing.Point(-1, 487);
+            this.laDivider3.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.laDivider3.Name = "laDivider3";
-            this.laDivider3.Size = new System.Drawing.Size(209, 2);
+            this.laDivider3.Size = new System.Drawing.Size(279, 2);
             this.laDivider3.TabIndex = 33;
             // 
             // laDivider2
             // 
             this.laDivider2.BackColor = System.Drawing.SystemColors.HotTrack;
-            this.laDivider2.Location = new System.Drawing.Point(-1, 264);
-            this.laDivider2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.laDivider2.Location = new System.Drawing.Point(-1, 325);
+            this.laDivider2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.laDivider2.Name = "laDivider2";
-            this.laDivider2.Size = new System.Drawing.Size(209, 2);
+            this.laDivider2.Size = new System.Drawing.Size(279, 2);
             this.laDivider2.TabIndex = 32;
             // 
             // laDivider
             // 
             this.laDivider.BackColor = System.Drawing.SystemColors.HotTrack;
-            this.laDivider.Location = new System.Drawing.Point(-3, 132);
-            this.laDivider.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.laDivider.Location = new System.Drawing.Point(-4, 162);
+            this.laDivider.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.laDivider.Name = "laDivider";
-            this.laDivider.Size = new System.Drawing.Size(209, 2);
+            this.laDivider.Size = new System.Drawing.Size(279, 2);
             this.laDivider.TabIndex = 31;
             // 
             // btRefreshList
@@ -287,8 +289,9 @@
             this.btRefreshList.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.btRefreshList.ForeColor = System.Drawing.SystemColors.Highlight;
             this.btRefreshList.Location = new System.Drawing.Point(0, 0);
+            this.btRefreshList.Margin = new System.Windows.Forms.Padding(4);
             this.btRefreshList.Name = "btRefreshList";
-            this.btRefreshList.Size = new System.Drawing.Size(206, 134);
+            this.btRefreshList.Size = new System.Drawing.Size(275, 165);
             this.btRefreshList.TabIndex = 9;
             this.btRefreshList.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.toolTipMain.SetToolTip(this.btRefreshList, "Refresh list");
@@ -303,9 +306,10 @@
             this.btFilterForSelectedItem.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btFilterForSelectedItem.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.btFilterForSelectedItem.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.btFilterForSelectedItem.Location = new System.Drawing.Point(0, 528);
+            this.btFilterForSelectedItem.Location = new System.Drawing.Point(0, 650);
+            this.btFilterForSelectedItem.Margin = new System.Windows.Forms.Padding(4);
             this.btFilterForSelectedItem.Name = "btFilterForSelectedItem";
-            this.btFilterForSelectedItem.Size = new System.Drawing.Size(206, 130);
+            this.btFilterForSelectedItem.Size = new System.Drawing.Size(275, 160);
             this.btFilterForSelectedItem.TabIndex = 8;
             this.toolTipMain.SetToolTip(this.btFilterForSelectedItem, "Filter list item");
             this.btFilterForSelectedItem.UseVisualStyleBackColor = false;
@@ -319,9 +323,10 @@
             this.btEditSelectedRow.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btEditSelectedRow.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.btEditSelectedRow.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.btEditSelectedRow.Location = new System.Drawing.Point(0, 264);
+            this.btEditSelectedRow.Location = new System.Drawing.Point(0, 325);
+            this.btEditSelectedRow.Margin = new System.Windows.Forms.Padding(4);
             this.btEditSelectedRow.Name = "btEditSelectedRow";
-            this.btEditSelectedRow.Size = new System.Drawing.Size(206, 134);
+            this.btEditSelectedRow.Size = new System.Drawing.Size(275, 165);
             this.btEditSelectedRow.TabIndex = 7;
             this.toolTipMain.SetToolTip(this.btEditSelectedRow, "Edit list item");
             this.btEditSelectedRow.UseVisualStyleBackColor = false;
@@ -335,9 +340,10 @@
             this.btRemoveItemFromList.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btRemoveItemFromList.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.btRemoveItemFromList.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.btRemoveItemFromList.Location = new System.Drawing.Point(0, 396);
+            this.btRemoveItemFromList.Location = new System.Drawing.Point(0, 487);
+            this.btRemoveItemFromList.Margin = new System.Windows.Forms.Padding(4);
             this.btRemoveItemFromList.Name = "btRemoveItemFromList";
-            this.btRemoveItemFromList.Size = new System.Drawing.Size(206, 134);
+            this.btRemoveItemFromList.Size = new System.Drawing.Size(275, 165);
             this.btRemoveItemFromList.TabIndex = 6;
             this.toolTipMain.SetToolTip(this.btRemoveItemFromList, "Delete list item(s)");
             this.btRemoveItemFromList.UseVisualStyleBackColor = false;
@@ -351,9 +357,10 @@
             this.btAddItemToList.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btAddItemToList.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.btAddItemToList.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.btAddItemToList.Location = new System.Drawing.Point(0, 132);
+            this.btAddItemToList.Location = new System.Drawing.Point(0, 162);
+            this.btAddItemToList.Margin = new System.Windows.Forms.Padding(4);
             this.btAddItemToList.Name = "btAddItemToList";
-            this.btAddItemToList.Size = new System.Drawing.Size(206, 134);
+            this.btAddItemToList.Size = new System.Drawing.Size(275, 165);
             this.btAddItemToList.TabIndex = 5;
             this.toolTipMain.SetToolTip(this.btAddItemToList, "Add list item");
             this.btAddItemToList.UseVisualStyleBackColor = false;
@@ -365,9 +372,10 @@
             this.panelView.Controls.Add(this.lbLists);
             this.panelView.Controls.Add(this.dgvDataTable);
             this.panelView.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelView.Location = new System.Drawing.Point(217, 5);
+            this.panelView.Location = new System.Drawing.Point(290, 6);
+            this.panelView.Margin = new System.Windows.Forms.Padding(4);
             this.panelView.Name = "panelView";
-            this.panelView.Size = new System.Drawing.Size(1336, 658);
+            this.panelView.Size = new System.Drawing.Size(1781, 809);
             this.panelView.TabIndex = 7;
             // 
             // laCurrentList
@@ -376,9 +384,10 @@
             this.laCurrentList.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.laCurrentList.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.laCurrentList.ForeColor = System.Drawing.Color.White;
-            this.laCurrentList.Location = new System.Drawing.Point(3, 0);
+            this.laCurrentList.Location = new System.Drawing.Point(4, 0);
+            this.laCurrentList.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.laCurrentList.Name = "laCurrentList";
-            this.laCurrentList.Size = new System.Drawing.Size(161, 42);
+            this.laCurrentList.Size = new System.Drawing.Size(215, 52);
             this.laCurrentList.TabIndex = 7;
             this.laCurrentList.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -388,10 +397,11 @@
             this.lbLists.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lbLists.Font = new System.Drawing.Font("Segoe UI Semibold", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.lbLists.FormattingEnabled = true;
-            this.lbLists.ItemHeight = 21;
-            this.lbLists.Location = new System.Drawing.Point(3, 45);
+            this.lbLists.ItemHeight = 28;
+            this.lbLists.Location = new System.Drawing.Point(4, 55);
+            this.lbLists.Margin = new System.Windows.Forms.Padding(4);
             this.lbLists.Name = "lbLists";
-            this.lbLists.Size = new System.Drawing.Size(161, 611);
+            this.lbLists.Size = new System.Drawing.Size(214, 730);
             this.lbLists.TabIndex = 6;
             this.lbLists.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.lbLists_MouseDoubleClick);
             // 
@@ -405,12 +415,15 @@
             this.dgvDataTable.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.dgvDataTable.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvDataTable.EditMode = System.Windows.Forms.DataGridViewEditMode.EditProgrammatically;
-            this.dgvDataTable.Location = new System.Drawing.Point(170, 3);
+            this.dgvDataTable.Location = new System.Drawing.Point(227, 4);
+            this.dgvDataTable.Margin = new System.Windows.Forms.Padding(4);
             this.dgvDataTable.Name = "dgvDataTable";
             this.dgvDataTable.RowHeadersVisible = false;
+            this.dgvDataTable.RowHeadersWidth = 51;
             this.dgvDataTable.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvDataTable.Size = new System.Drawing.Size(1163, 652);
+            this.dgvDataTable.Size = new System.Drawing.Size(1551, 802);
             this.dgvDataTable.TabIndex = 5;
+            this.dgvDataTable.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvDataTable_CellClick);
             // 
             // timerRefreshList
             // 
@@ -422,9 +435,10 @@
             this.laGetStarted.Dock = System.Windows.Forms.DockStyle.Fill;
             this.laGetStarted.Font = new System.Drawing.Font("Segoe UI", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.laGetStarted.ForeColor = System.Drawing.SystemColors.ButtonShadow;
-            this.laGetStarted.Location = new System.Drawing.Point(0, 25);
+            this.laGetStarted.Location = new System.Drawing.Point(0, 31);
+            this.laGetStarted.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.laGetStarted.Name = "laGetStarted";
-            this.laGetStarted.Size = new System.Drawing.Size(1558, 667);
+            this.laGetStarted.Size = new System.Drawing.Size(1924, 821);
             this.laGetStarted.TabIndex = 4;
             this.laGetStarted.Text = "Connect to a site";
             this.laGetStarted.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -434,25 +448,27 @@
             this.laLoading.AutoSize = true;
             this.laLoading.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.laLoading.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.laLoading.Location = new System.Drawing.Point(466, 5);
+            this.laLoading.Location = new System.Drawing.Point(621, 6);
+            this.laLoading.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.laLoading.Name = "laLoading";
-            this.laLoading.Size = new System.Drawing.Size(64, 17);
+            this.laLoading.Size = new System.Drawing.Size(83, 23);
             this.laLoading.TabIndex = 5;
             this.laLoading.Text = "Loading...";
             this.laLoading.Visible = false;
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.ClientSize = new System.Drawing.Size(1558, 692);
+            this.ClientSize = new System.Drawing.Size(1924, 852);
             this.Controls.Add(this.laLoading);
             this.Controls.Add(this.bgTemplate);
             this.Controls.Add(this.laGetStarted);
             this.Controls.Add(this.menuStrip);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

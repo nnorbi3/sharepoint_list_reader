@@ -13,11 +13,12 @@ using Logic;
 using Microsoft.SharePoint.Client;
 using Microsoft.SharePoint.WebControls;
 using Microsoft.VisualBasic;
+using sp_client.Interfaces;
 using Form = System.Windows.Forms.Form;
 
 namespace sp_client
 {
-    public partial class AddListItemForm : Form
+    public partial class AddListItemForm : Form, IForm
     {
         public AddListItemForm()
         {
@@ -26,7 +27,6 @@ namespace sp_client
 
         public MainForm Main { get; set; }
         private List<Column> formData;
-        private List<Label> labels;
         private List<Control> controlsList;
 
         private void NewListItemForm_Load(object sender, EventArgs e)
@@ -50,7 +50,7 @@ namespace sp_client
             }
             else
             {
-                MessageBox.Show("All fields must be filled!", "Attention", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                Main.DisplayErrorMessage(new Exceptions.Error(Exceptions.ErrorType.Alert, "All fields must be filled!"));
             }
         }
 

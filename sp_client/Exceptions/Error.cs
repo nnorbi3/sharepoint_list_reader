@@ -8,7 +8,7 @@ namespace Exceptions
 {
     public enum ErrorType
     {
-        AuthenticationError, ActionError, ConnectionError,
+        AuthenticationError, ActionError, ConnectionError, Alert
     }
     public class Error : Exception
     {

@@ -1,4 +1,5 @@
 ﻿using Logic;
+using sp_client.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,11 +12,10 @@ using System.Windows.Forms;
 
 namespace sp_client
 {
-    public partial class EditListItemForm : Form
+    public partial class EditListItemForm : Form, IForm
     {
         public MainForm Main { get; set; }
         private List<Column> formData;
-        private List<Label> labels;
         private List<Control> controlsList;
         private List<string> editRow;
 
@@ -47,7 +47,7 @@ namespace sp_client
             }
             else
             {
-                MessageBox.Show("All fields must be filled!", "Attention", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                Main.DisplayErrorMessage(new Exceptions.Error(Exceptions.ErrorType.Alert, "All fields must be filled!"));
             }
         }
 

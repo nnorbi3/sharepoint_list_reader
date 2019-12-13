@@ -124,6 +124,7 @@
       <DependentUpon>AddListItemForm.cs</DependentUpon>
     </Compile>
     <Compile Include="InputFormFactory.cs" />
+    <Compile Include="Interfaces\IForm.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Forms\EditListItemForm.resx">

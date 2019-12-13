@@ -1,4 +1,5 @@
-﻿using System;
+﻿using sp_client.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,7 +11,7 @@ using System.Windows.Forms;
 
 namespace sp_client
 {
-    public partial class FilteredListForm : Form
+    public partial class FilteredListForm : Form, IForm
     {
         public FilteredListForm()
         {

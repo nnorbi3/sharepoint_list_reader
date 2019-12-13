@@ -12,6 +12,7 @@ using Exceptions;
 using Logic;
 using Microsoft.SharePoint.Client;
 using Microsoft.VisualBasic;
+using sp_client.Interfaces;
 using Form = System.Windows.Forms.Form;
 
 namespace sp_client
@@ -20,11 +21,7 @@ namespace sp_client
     {
         private SharepointLogic logic;
 
-        private LoginForm loginForm;
-
         private List<int> dgvSPItemIds;
-
-        private List<int> dgvSelectedSPItemIds;
 
         private List<Column> dataTable;
 
@@ -41,7 +38,58 @@ namespace sp_client
             }
         }
 
-        #region Connected, ViewSetup
+        public void FormFactory(Form form)
+        {
+            bool indicator = false;
+            (form as IForm).Main = this;
+            if (form is EditListItemForm)
+            {
+                if (dgvDataTable.SelectedRows.Count == 1)
+                {
+                    indicator = true;
+                }
+                else if (dgvDataTable.SelectedRows.Count > 1)
+                {
+                    DisplayErrorMessage(new Error(ErrorType.Alert, "Only one item can be selected for editing!"));
+                }
+                else
+                {
+                    DisplayErrorMessage(new Error(ErrorType.Alert, "No items selected!"));
+                }
+            }
+            else if (form is FilteredListForm)
+            {
+                if (dgvDataTable.SelectedRows.Count == 1)
+                {
+                    indicator = true;
+                }
+                else if (dgvDataTable.SelectedRows.Count > 1)
+                {
+                    DisplayErrorMessage(new Error(ErrorType.Alert, "Only one item can be selected for filtering!"));
+                }
+                else
+                {
+                    DisplayErrorMessage(new Error(ErrorType.Alert, "No items selected!"));
+                }
+            }
+            else
+            {
+                indicator = true;
+            }
+
+            if (indicator)
+            {
+                form.Show();
+                form.Focus();
+            }
+        }
+
+        public void DisplayErrorMessage(Error e)
+        {
+            MessageBox.Show(e.Message, e.Type.ToString(), MessageBoxButtons.OK, MessageBoxIcon.Warning);
+        }
+
+        #region ViewSetup
 
         private void ViewSetup(bool enable)
         {
@@ -78,22 +126,13 @@ namespace sp_client
                 logic.ConnectAndAuthenticate();
                 logic.Connected = true;
                 EnableComponents(true);
-                loginForm.Close();
                 lbLists.DataSource = logic.GetListNames();
                 SearchList(lbLists.SelectedItem.ToString());
             }
             catch (Error e)
             {
-                MessageBox.Show(e.Message, e.Type.ToString(),
-                        MessageBoxButtons.OK,
-                        MessageBoxIcon.Error);
-                loginForm.LoadingVisibleFalse();
+                DisplayErrorMessage(e);
             }
-        }
-
-        public void CancelConnection()
-        {
-            loginForm.Close();
         }
 
         private void siteToolStripMenuItem_Click(object sender, EventArgs e)
@@ -103,7 +142,7 @@ namespace sp_client
 
         private void connectToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            loginForm = new LoginForm();
+            LoginForm loginForm = new LoginForm();
             loginForm.Main = this;
             loginForm.Show();
             loginForm.Focus();
@@ -140,7 +179,7 @@ namespace sp_client
             laCurrentList.Text = listName;
             dgvDataTable.ClearSelection();
             logic.CurrentListTitle = listName;
-            ShowList();
+            ShowList(true);
         }
 
         #endregion
@@ -156,7 +195,7 @@ namespace sp_client
 
         #region List_show-refresh
 
-        private async void ShowList()
+        private async void ShowList(bool tableChange = false)
         {
             await Task.Factory.StartNew(() =>
             {
@@ -164,15 +203,18 @@ namespace sp_client
             });
             if (dataTable != null)
             {
-                List<int> selectedRows = GetSelectedRows();
                 DisplayUserTable(dataTable);
-                ReSelectRowsAfterRefresh(selectedRows);
+            }
+            if (!tableChange)
+            {
+                List<int> selectedRows = GetSelectedRows();
+                ReselectRowsAfterRefresh(selectedRows);
             }
 
             laLoading.Visible = false;
         }
 
-        private void ReSelectRowsAfterRefresh(List<int> selectedRows)
+        private void ReselectRowsAfterRefresh(List<int> selectedRows)
         {
             if (dgvDataTable.RowCount != 0)
             {
@@ -197,13 +239,13 @@ namespace sp_client
             return selectedRowSPIds;
         }
 
-        private async void timerRefreshList_Tick(object sender, EventArgs e)
+        private void timerRefreshList_Tick(object sender, EventArgs e)
         {
             laLoading.Visible = true;
             ShowList();
         }
 
-        private async void btRefreshList_Click(object sender, EventArgs e)
+        private void btRefreshList_Click(object sender, EventArgs e)
         {
             laLoading.Visible = true;
             ShowList();
@@ -348,10 +390,7 @@ namespace sp_client
 
         private void btAddItemToList_Click(object sender, EventArgs e)
         {
-            AddListItemForm itemForm = new AddListItemForm();
-            itemForm.Main = this;
-            itemForm.Show();
-            itemForm.Focus();
+            FormFactory(new AddListItemForm());
         }
 
         public List<Column> GetInputFormData()
@@ -383,26 +422,7 @@ namespace sp_client
 
         private void btEditSelectedRow_Click(object sender, EventArgs e)
         {
-            if (dgvDataTable.SelectedRows.Count == 1)
-            {
-                EditListItemForm editForm = new EditListItemForm();
-                editForm.Main = this;
-                editForm.Show();
-                editForm.Focus();
-            }
-            else
-            {
-                if (dgvDataTable.SelectedRows.Count > 1)
-                {
-                    MessageBox.Show("Only one item can be selected for editing!", "Alert", MessageBoxButtons.OK,
-                        MessageBoxIcon.Asterisk);
-                }
-                else
-                {
-                    MessageBox.Show("No items selected!", "Alert", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
-
-            }
+            FormFactory(new EditListItemForm());
         }
 
         public List<string> GetSelectedRowData()
@@ -424,6 +444,10 @@ namespace sp_client
             await logic.EditListItem(columns, fields, itemId);
             ShowList();
         }
+        private void dgvDataTable_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            FormFactory(new EditListItemForm());
+        }
 
         #endregion
 
@@ -442,8 +466,7 @@ namespace sp_client
                     List<int> deleteList = CreateDeleteList();
                     for (int i = 0; i < deleteList.Count; i++)
                     {
-                        CamlQuery query = logic.CreateDeleteUserQuery(deleteList[i]);
-                        await logic.RemoveItemFromList(query);
+                        await logic.RemoveItemFromList(logic.CreateDeleteUserQuery(deleteList[i]));
                     }
 
                     dgvDataTable.ClearSelection();
@@ -452,7 +475,7 @@ namespace sp_client
             }
             else
             {
-                MessageBox.Show("No items selected!", "Alert", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                DisplayErrorMessage(new Error(ErrorType.Alert, "No items selected!"));
             }
         }
 
@@ -510,27 +533,8 @@ namespace sp_client
 
         private void btFilterForSelectedItem_Click(object sender, EventArgs e)
         {
-            if (dgvDataTable.SelectedRows.Count == 1)
-            {
-                FilteredListForm filterForm = new FilteredListForm();
-                filterForm.Main = this;
-                filterForm.Show();
-                filterForm.Focus();
-            }
-            else
-            {
-                if (dgvDataTable.SelectedRows.Count > 1)
-                {
-                    MessageBox.Show("Only one item can be selected for filtering!", "Alert", MessageBoxButtons.OK,
-                        MessageBoxIcon.Asterisk);
-                }
-                else
-                {
-                    MessageBox.Show("No items selected!", "Alert", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                }
-            }
+            FormFactory(new FilteredListForm());
         }
-
 
         #endregion
     }

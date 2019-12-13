@@ -72,7 +72,6 @@ namespace sp_client
             }
         }
 
-
         public static void FormSetup(Panel panelControls, List<Column> formData, out List<Control> controlsList, List<string> editRow = null)
         {
             int top = 1;

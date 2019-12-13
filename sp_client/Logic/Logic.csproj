@@ -86,9 +86,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Column.cs" />
-    <Compile Include="ColumnField.cs" />
-    <Compile Include="SharepointLogic.cs" />
+    <Compile Include="SharepointLogic\Column.cs" />
+    <Compile Include="SharepointLogic\ColumnField.cs" />
+    <Compile Include="SharepointLogic\SharepointLogic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
