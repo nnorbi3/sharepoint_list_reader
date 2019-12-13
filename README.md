@@ -1,13 +1,12 @@
 # sharepoint_remote_client
 
-## Description
-
 ## UPDATE
 Project got cleared up a **lot**.
 - Layers
 - Non blocking UI
 - Some documentation here and there
 
+## Description
 I made this program during my first year of uni. Also this is my first ever "bigger" project.
 I got an opportunity from a state-owned company to work on this project on my own. The goal was to make work faster, because they found the online editor a bit too slow.
 Unfortunately the company decided to replace Sharepoint with some other technology, so my program became useless for them.
