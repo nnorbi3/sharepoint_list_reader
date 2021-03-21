@@ -26,5 +26,3 @@ It is specifically written to manage lists.
 - Updating existing data in a list
 - Deleting data from a list
 - Filtering data in a list
-
-**NOTE: It's not specifically written for the company's site. It works on any Sharepoint website.**
